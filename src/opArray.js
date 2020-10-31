@@ -1,7 +1,7 @@
 export default 
 [
     { 
-        name: 'Zoraya',
+        name: 'Soraya',
         src: '/assets/Soraya.png',
         task: '',
         entryTime: 14,
